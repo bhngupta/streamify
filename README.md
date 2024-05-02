@@ -1,7 +1,7 @@
 # streamify
 Streamify is a simple Distributed Video Streaming Platform written in Python and uses Kafka
 
-This project demonstrates how to stream video from a camera or a video file using Apache Kafka as the messaging broker and Flask as the web server. It consists of two main components: a producer that captures video frames and publishes them to a Kafka topic, and a consumer that consumes these frames and streams them to a web client.
+Using Apache Kafka as the messaging broker and Flask as the web server. The codebase consists of two main components: a producer that captures video frames and publishes them to a Kafka topic, and a consumer that consumes these frames and streams them to a web client.
 
 ## Features
 
