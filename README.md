@@ -15,7 +15,7 @@ Using Apache Kafka as the messaging broker and Flask as the web server. The code
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your_username/distributed-video-streaming.git
+    git clone https://github.com/your_username/distributed-video-streaming
     ```
 
 2. Install the required dependencies:
